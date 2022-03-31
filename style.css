@@ -1,0 +1,33 @@
+body{
+    background-repeat:repeat;
+}
+.header{
+    width: 100%;
+    margin:0px;
+    font-size: 23px;
+}
+#start,#status,#object{
+    font-size: 19px;
+    border: black 1px solid;
+}
+.footer{
+    width: 100%;
+    color:black;
+    background-color: bisque;
+    bottom:0;
+    line-height:3 ;
+    position: fixed;
+    font-size:20px;
+}
+canvas{
+    border-radius: 20px;
+    border:2px solid rgb(14, 10, 236);
+    margin-top:100px;
+    box-shadow: 2px 2px 2px rgb(9, 241, 241);
+}
+#in{
+    border-radius: 20px;
+    width: 50%;
+    height: 40px;
+    border: 5px solid black;
+}
